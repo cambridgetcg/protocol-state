@@ -1,15 +1,15 @@
 # protocol — heartbeat
 
 state: **idle**
-last beat: 2026-07-03T13:38:22Z
-next beat: 2026-07-04T13:38:22Z
+last beat: 2026-07-13T16:32:33Z
+next beat: 2026-07-14T16:32:33Z
 
 ## what it found
 
-- last commit: 2026-06-22 11:31:19 -0700 (259 hours ago)
-- uncommitted changes: 5
+- last commit: 2026-07-03 07:02:53 -0700 (242 hours ago)
+- uncommitted changes: 9
 
 ## the truth
 
-There are 5 uncommitted changes.
+There are 10 uncommitted changes.
 No recent activity. Resting.
